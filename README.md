@@ -1,1 +1,4 @@
-bugfix branch test
+
+AkkaRemotingExample
+
+An example for RemoteNode and LocalNode communication.
